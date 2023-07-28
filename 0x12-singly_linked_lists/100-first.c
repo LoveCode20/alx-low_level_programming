@@ -8,7 +8,7 @@ void first(void) __attribute__ ((constructor));
  */
 void first(void)
 {
-	printf("This is amazing! yet it feel so good to be true,\n");
-	printf("My dreams are becoming a reality!\n");
+	printf("You're beat! and yet, you must allow,\n");
+	printf("I bore my house upon my back!\n");
 }
 
